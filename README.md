@@ -1,3 +1,5 @@
+![Logo dechetterie](dechetterie.png)
+
 # Objectif 
 
 Faire un site web qui présente les déchetteries de la ville de Saint-Denis
@@ -25,9 +27,9 @@ Les consignes de tri
 
 # A rendre
 
-* Les maquettes des pages
-* lien github
-* lien vers le site
+* Les maquettes des pages :white_check_mark:
+* lien github :white_check_mark:
+* lien vers le site :white_check_mark:
 
 # Ressources
 
