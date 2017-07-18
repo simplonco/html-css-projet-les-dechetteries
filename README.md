@@ -1,4 +1,4 @@
-![Logo dechetterie](dechetterie.png)
+![Logo dechetterie](logo_dechetterie.png)
 
 # Objectif 
 
